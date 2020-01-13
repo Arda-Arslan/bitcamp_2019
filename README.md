@@ -3,7 +3,7 @@
 A solution leveraging FINRA's big data
 
 <p align="center">
-  <img src="https://github.com/arda-arslan/bitcamp2019/blob/master/assets/bitcamp_img.png" width="90%" />
+  <img src="https://github.com/arda-arslan/bitcamp2019/blob/master/assets/bitcamp_img.png" width="75%" />
 </p>
 
 ## Problem
