@@ -25,10 +25,6 @@ There are bad actors in business everywhere, but it can be difficult to make sen
 2. There was a lot of value in the data provided by FINRA, but not a lot of the value could be extracted by us without knowledge of the industry. By creating a dashboard that accepts the dataset, we could let FINRA analysts decide which attributes are important instead of imposing what we think is important.
 3. Although the given dataset was extensive, it wasn't expansive. We wanted to dig deeper into why brokers and brokerages had complaints filed against them, so we downloaded the complaint documents and grouped them by topical similarity so that FINRA analysts can have a quick overview of the type and severity of complaints against brokers.
 
-## How we built it
-
-We used python for data cleaning, webscraping complaint forms, and building our graph visualizations. `pandas` was especially helpful for working with the data.
-
 ## Challenges we ran into
 
 - The data is messy and XML is hard to parse
